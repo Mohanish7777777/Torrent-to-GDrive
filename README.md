@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Big thanks❤️ to Team Dark⚡
+Credit ❤ to Team Dark⚡
 
 <p align="center"> 
 Powered By Mohanish <a href="github.com/Mohanish7777777"><img src="https://i.ibb.co/7k9tyQ6/verify1.png" alt="verfied" width="16" height="16" />
