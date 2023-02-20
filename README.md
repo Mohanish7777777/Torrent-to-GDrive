@@ -23,4 +23,4 @@ Powered By Mohanish <a href="github.com/Mohanish7777777"><img src="https://i.ibb
 
   
 
-  # ❤️Made with love Mohanish
+#Made with ❤️ Mohanish
