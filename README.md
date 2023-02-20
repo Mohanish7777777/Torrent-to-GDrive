@@ -17,8 +17,8 @@ Powered By Mohanish <a href="github.com/Mohanish7777777"><img src="https://i.ibb
 </p>
 👇👇👇👇👇👇👇👇👇👇
 
- [`Torrent File To GDrive`](https://colab.research.google.com/drive/12OpXL3Y20WWqwRtyr4swIzxP4VRXqc6T#scrollTo=4zaY0Pqz-F5m)
-https://github.com/Mohanish7777777/Torrent-to-G-Drive/blob/main/Torrent_to_G-drive.ipynb
+## [`Torrent File To GDrive`](https://colab.research.google.com/drive/12OpXL3Y20WWqwRtyr4swIzxP4VRXqc6T#scrollTo=4zaY0Pqz-F5m)
+
   
 
   # ❤️Made with love Mohanish
