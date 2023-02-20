@@ -1,4 +1,4 @@
-# Torrent-to-G-Drive
+# Torrent-to-GDrive
 
 
 <p align="center">
